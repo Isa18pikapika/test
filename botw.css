@@ -1,0 +1,7 @@
+*{background-color:#70E6D9}
+h1{background-color:#7082E6 ; color:#FFFFFF; text-align:center}
+h4{background-color:#70A7E6; color:#FFFFFF; text-align:center}
+p{background-color:#70E6B1; color:#000000}
+a{text-decoration:none; text-align:center}
+a:hover{border: 20px : border-right: 70A7E6; border-bottom:70A7E6; border-top: 70CCE6; border-left:70CCE6;padding-top:10px ; padding-bottom:10px ; padding-right:20px ; padding-left:20px; background-color:#FFFFFF;color:#000000; text-decoration:underline}
+body{font-size:1vw}
